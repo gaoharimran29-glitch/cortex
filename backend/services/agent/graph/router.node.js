@@ -113,6 +113,8 @@ chat
 search
 coding
 pdf
+ppt
+image
 
 User Query:
 
