@@ -373,7 +373,7 @@ const downloadUrl =
 
 📥 [Download PPT](${downloadUrl})
 
-⏳ Link expires in 10 minutes.
+⏳ Link expires in 24 hours.
 `
 };
   } catch (error) {
