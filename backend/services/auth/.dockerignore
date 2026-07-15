@@ -42,3 +42,6 @@ README.md
 # Build artifacts
 dist
 build
+
+# Firebase credentials
+serviceAccount.json
